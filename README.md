@@ -5,3 +5,5 @@ Ready to use assets for IBM BPM
 A process and task(dashboard) where users can schedule absence periods to automatically redirect tasks.
 It's already translated to english and brazilian portuguese.
 
+### Installation
+Run the service <b>Application Setup</b> to create the schedule table.
